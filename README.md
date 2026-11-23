@@ -2,7 +2,7 @@
 
 <h1 align="center">Purge Bot 😈</h1>
 
-<p align="center"><b>Finds the silent, makes them plead, and purges the ones who don't.</b></p>
+<p align="center"><b>Finds the lurkers in your server and makes them plead for mercy.</b></p>
 
 Purge Bot is a comically evil Discord bot for cleaning up inactive members. It finds everyone who hasn't written anything for a year, DMs them a survey asking why they should stay, lets your moderators vote on the answers, and kicks the people who never reply.
 
