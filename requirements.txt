@@ -1,0 +1,6 @@
+# Needed to run the bot and the app
+discord.py>=2.3,<3
+
+# Only needed to rebuild the icons or build PurgeBot.exe (build_exe.bat installs these for you)
+# Pillow
+# pyinstaller
